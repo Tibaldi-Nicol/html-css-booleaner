@@ -103,4 +103,21 @@ tr{
     margin-top: 15px;
 }
 
+
+#interessi{
+    margin-top: 30px;
+}
+
+.immagini{
+    width: 200px;
+    height: 160px;
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+
+h4{
+    color: white;
+}
   
