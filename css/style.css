@@ -56,12 +56,51 @@ h3{
     
 }
 
+/*Allontano il paragrafo dalle scritte */
+
 p{
     margin-top: 10px;
 }
+
+/*Rendo visibili i puntatori della lista perche il css reset li aveva tolti*/
 
 ul{
     list-style-type: disc;
     margin-left: 20px;
     margin-top: 30px;
 }
+
+/*tabella*/
+
+  table  {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  /*sistema lintestazione th*/
+
+  th{
+    text-align: left;
+    background-color: #4EA1FF;
+    color: white;
+  }
+
+
+tr{
+    background-color: #B1E6F2;
+}
+
+.meta{
+    width: 50%;
+}
+
+.bianco{
+    background-color: white;
+}
+
+#ultimop{
+    margin-top: 15px;
+}
+
+  
