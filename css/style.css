@@ -37,7 +37,7 @@ h3{
     font-size: small;
 }
 /*Grandezza Font Paragrafo*/
-p{
+.Descrizione{
     font-size: small;
 }
 
@@ -54,4 +54,8 @@ p{
     height: 500px;
     padding: 0px;
     
+}
+
+p{
+    margin-bottom: 10px;
 }
