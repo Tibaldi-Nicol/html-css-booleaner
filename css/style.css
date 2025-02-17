@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*regolazione immagine di sfondo header*/
+#logo{
+    height: 100px;
+    background-color: #4EA1FF;
+    background-image: url(../img/pattern.png);
+
+}
+
+/* Regolazione immagine the booleaner */
+img{
+    height: 80px;
+    margin-top: 20px;
+    padding: 15px;
+    
+
+}
